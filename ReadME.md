@@ -1,6 +1,6 @@
 Code used in my Bsc. thesis about Neural Networks in Embedded Systems.  
 This repo contais the testbench for different running environments and analysing tools.  
-Thesis can be found from Trepo: **<ADD LINK!>**
+Thesis can be found from Trepo: https://urn.fi/URN:NBN:fi:tuni-202201141321
 The rest of the ReadMe is in finnish like the thesis.  
 
 Testit suoritettiin Nvidia **Jetson Nano** järjestelmällä ja **JetPack 4.6** versiolla  
